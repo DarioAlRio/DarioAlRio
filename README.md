@@ -9,18 +9,15 @@
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">
-
-<a href="https://github.com/DarioAlRio?tab=followers"><img src="https://img.shields.io/github/followers/DarioAlRio?style=for-the-badge&amp;label=FOLLOWERS&amp;color=FF4D00&amp;labelColor=111827" alt="FOLLOWERS"></a>
-<a href="https://elescaparateweb.com"><img src="https://img.shields.io/badge/EL_ESCAPARATE-WEB_DEV-FF6A00?style=for-the-badge&amp;labelColor=111827" alt="EL ESCAPARATE"></a>
-<a href="https://github.com/DarioAlRio?tab=stars"><img src="https://img.shields.io/github/stars/DarioAlRio?style=for-the-badge&amp;label=STARS&amp;color=FF2200&amp;labelColor=111827" alt="STARS"></a>
-<a href="https://www.linkedin.com/in/dar%C3%ADo-dom%C3%ADnguez-garc%C3%ADa-13673a252/"><img src="https://img.shields.io/badge/LINKEDIN-CONECTA-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white&amp;labelColor=111827" alt="LINKEDIN"></a>
-
-</td>
-</tr>
-</table>
+<p align="center">
+<a href="https://github.com/DarioAlRio?tab=followers"><img src="assets/followers.svg" alt="Followers"></a>
+&nbsp;&nbsp;
+<a href="https://elescaparateweb.com"><img src="assets/escaparate.svg" alt="El Escaparate"></a>
+&nbsp;&nbsp;
+<a href="https://github.com/DarioAlRio?tab=stars"><img src="assets/stars.svg" alt="Stars"></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dar%C3%ADo-dom%C3%ADnguez-garc%C3%ADa-13673a252/"><img src="assets/linkedin.svg" alt="LinkedIn"></a>
+</p>
 
 </div>
 

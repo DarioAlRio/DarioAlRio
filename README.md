@@ -43,8 +43,6 @@
 - 🧰 Prospector de negocios locales (Python)
 - 🤖 Plantillas de prompt spec para generar webs con IA
 
-⭐ Mis webs más importantes: **BlackLili Tattoos**, **Apirober**, **Biblioteca El Nido** y **El Escaparate**.
-
 ---
 
 # ⭐ Webs principales

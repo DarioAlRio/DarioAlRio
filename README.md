@@ -87,15 +87,16 @@ Estudio web freelance para negocios de barrio.
 
 # 🛠️ Tecnologías y Herramientas
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vercel,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,git,github,vercel,vscode)](https://skillicons.dev)
 
-## Stack web
+## Stack
 
 - HTML5 semántico
 - CSS3 moderno
 - JavaScript vanilla
 - Node.js (generadores estáticos y auditorías SEO)
 - Python (generadores y herramientas)
+- Java
 - Vercel
 - Google Places API
 - JSON-LD / `llms.txt`

@@ -37,6 +37,7 @@
 - 🎨 BlackLili Tattoos
 - 🔨 Aparejo · Reformas Integrales
 - 🛠️ Ferretería Jiménez / Ferretería Vallecana
+- 🛒 Red de 8 webs de afiliados de Amazon (Node.js)
 - 🧰 Prospector de negocios locales (Python)
 - 🤖 Plantillas de prompt spec para generar webs con IA
 
@@ -49,6 +50,7 @@
 | 🎨 **BlackLili Tattoos** | Web de estudio fine-line en Puente de Vallecas: Lighthouse, imágenes fuera de base64, datos estructurados y clúster de SEO local |
 | 🔨 **Aparejo · Reformas Integrales** | Demo multipágina generada desde módulos Python con validador propio |
 | 🛠️ **Ferretería Jiménez / Vallecana** | Webs para ferreterías de barrio |
+| 🛒 **Red de webs de afiliados Amazon** | 8 webs temáticas (CocinaIdeal, BebeListo, CocheListo, MascotaIdeal…) con ~2.700 páginas estáticas generadas con Node.js: scraping y verificación de productos, rankings y comparativas automáticas, auditoría SEO propia (canibalización, enlaces, profundidad de clic), WebP, IndexNow y publicación programada en Pinterest |
 | 🧰 **Prospector de negocios** | Python + Google Places API: localiza negocios sin web y genera enlaces de WhatsApp para contacto manual (LSSICE) |
 | 🤖 **Prompt Spec Template** | Plantilla Markdown reutilizable para generar sitios con IA |
 
@@ -77,13 +79,14 @@ Estudio web freelance para negocios de barrio.
 
 # 🛠️ Tecnologías y Herramientas
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,vercel,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,vercel,vscode)](https://skillicons.dev)
 
 ## Stack web
 
 - HTML5 semántico
 - CSS3 moderno
 - JavaScript vanilla
+- Node.js (generadores estáticos y auditorías SEO)
 - Python (generadores y herramientas)
 - Vercel
 - Google Places API

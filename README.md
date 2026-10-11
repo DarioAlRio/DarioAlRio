@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF4D00&center=true&vCenter=true&width=900&lines=Ingeniero+de+Sistemas+%7C+Project+Manager+%2F+PMO;Desarrollador+de+Software;Desarrollador+Web+Freelance+%E2%80%94+El+Escaparate;Webs+r%C3%A1pidas%3B+accesibles+y+con+SEO+local)](https://elescaparateweb.com)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=HTML+%2F+CSS+%2F+JS+sin+frameworks;Core+Web+Vitals+%2F+WCAG+2.2+AA+%2F+RGPD;PMO+%2F+Gesti%C3%B3n+de+proyectos+IT+%2F+Vallecas%2C+Madrid)](https://elescaparateweb.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=HTML+%2F+CSS+%2F+JS+sin+frameworks;Core+Web+Vitals+%2F+WCAG+2.2+AA+%2F+RGPD;PMO+%2F+Gesti%C3%B3n+de+proyectos+IT+%2F+Madrid)](https://elescaparateweb.com)
 
 </div>
 
@@ -51,7 +51,7 @@
 
 | Web | Descripción | Enlaces |
 | --- | --- | --- |
-| 🎨 **BlackLili Tattoos** | Web de estudio de tatuaje fine-line en Puente de Vallecas: optimizada con Lighthouse, imágenes fuera de base64, datos estructurados y clúster de SEO local | [Web](https://blacklilitattoos-dario21.vercel.app) |
+| 🎨 **BlackLili Tattoos** | Web de estudio de tatuaje fine-line en Madrid: optimizada con Lighthouse, imágenes fuera de base64, datos estructurados y clúster de SEO local | [Web](https://blacklilitattoos-dario21.vercel.app) |
 | 🍯 **Apirober** | Web de venta de miel cruda de flores de Fuentemolinos (Burgos), en HTML, CSS y JS estático | [Web](https://apirober.vercel.app) |
 | 📚 **Biblioteca El Nido** | Web de la biblioteca vecinal de Fuentemolinos: catálogo de más de 1.000 libros con buscador y filtros, estantería interactiva y actualización del catálogo desde Excel con Python | [Web](https://el-nido-biblioteca.vercel.app) |
 | 🌐 **El Escaparate** | Web de mi estudio de desarrollo web para negocios de barrio | [Web](https://elescaparateweb.com) |

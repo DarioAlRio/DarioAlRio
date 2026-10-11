@@ -49,8 +49,6 @@
 
 | Proyecto | Descripción |
 | --- | --- |
-| 🔨 **Aparejo · Reformas Integrales** | Demo multipágina generada desde módulos Python con validador propio |
-| 🛠️ **Ferretería Jiménez / Vallecana** | Webs para ferreterías de barrio |
 | 🛒 **Red de webs de afiliados Amazon** | 8 webs temáticas (CocinaIdeal, BebeListo, CocheListo, MascotaIdeal…) con ~2.700 páginas estáticas generadas con Node.js: scraping y verificación de productos, rankings y comparativas automáticas, auditoría SEO propia (canibalización, enlaces, profundidad de clic), WebP, IndexNow y publicación programada en Pinterest |
 | 🧰 **Prospector de negocios** | Python + Google Places API: localiza negocios sin web y genera enlaces de WhatsApp para contacto manual (LSSICE) |
 | 🤖 **Prompt Spec Template** | Plantilla Markdown reutilizable para generar sitios con IA |

@@ -49,10 +49,10 @@
 
 | Web | Descripción | Enlaces |
 | --- | --- | --- |
-| 🎨 **BlackLili Tattoos** | Web de estudio de tatuaje fine-line en Puente de Vallecas: optimizada con Lighthouse, imágenes fuera de base64, datos estructurados y clúster de SEO local | [Web](https://blacklilitattoos-dario21.vercel.app) · [Código](https://github.com/DarioAlRio/Blacklilitattoos) |
-| 🍯 **Apirober** | Web de venta de miel cruda de flores de Fuentemolinos (Burgos), en HTML, CSS y JS estático | [Web](https://apirober.vercel.app) · [Código](https://github.com/DarioAlRio/ApiRober) |
-| 📚 **Biblioteca El Nido** | Web de la biblioteca vecinal de Fuentemolinos: catálogo de más de 1.000 libros con buscador y filtros, estantería interactiva y actualización del catálogo desde Excel con Python | [Web](https://el-nido-biblioteca.vercel.app) · [Código](https://github.com/DarioAlRio/ElNidoBiblioteca) |
-| 🌐 **El Escaparate** | Web de mi estudio de desarrollo web para negocios de barrio | [Web](https://elescaparateweb.com) · [Código](https://github.com/DarioAlRio/ElEscaparate) |
+| 🎨 **BlackLili Tattoos** | Web de estudio de tatuaje fine-line en Puente de Vallecas: optimizada con Lighthouse, imágenes fuera de base64, datos estructurados y clúster de SEO local | [Web](https://blacklilitattoos-dario21.vercel.app) |
+| 🍯 **Apirober** | Web de venta de miel cruda de flores de Fuentemolinos (Burgos), en HTML, CSS y JS estático | [Web](https://apirober.vercel.app) |
+| 📚 **Biblioteca El Nido** | Web de la biblioteca vecinal de Fuentemolinos: catálogo de más de 1.000 libros con buscador y filtros, estantería interactiva y actualización del catálogo desde Excel con Python | [Web](https://el-nido-biblioteca.vercel.app) |
+| 🌐 **El Escaparate** | Web de mi estudio de desarrollo web para negocios de barrio | [Web](https://elescaparateweb.com) |
 
 # 🚀 Otros proyectos
 

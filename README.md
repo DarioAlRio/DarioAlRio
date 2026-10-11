@@ -100,7 +100,7 @@ Estudio web freelance para negocios de barrio.
 
 [![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarioAlRio&theme=gruvbox)](https://github.com/DarioAlRio) [![Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DarioAlRio&theme=gruvbox&utcOffset=2)](https://github.com/DarioAlRio)
 
-[![Lenguajes por código](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioAlRio&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&custom_title=Lenguajes%20por%20c%C3%B3digo)](https://github.com/DarioAlRio?tab=repositories) [![Lenguajes por repositorio](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioAlRio&layout=compact&langs_count=8&theme=gruvbox&hide_border=true&size_weight=0&count_weight=1&custom_title=Lenguajes%20por%20repositorio)](https://github.com/DarioAlRio?tab=repositories)
+[![Lenguajes por código](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioAlRio&layout=donut&langs_count=8&theme=gruvbox&hide_border=true&custom_title=Lenguajes%20por%20c%C3%B3digo)](https://github.com/DarioAlRio?tab=repositories) [![Lenguajes por repositorio](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioAlRio&layout=donut&langs_count=8&theme=gruvbox&hide_border=true&size_weight=0&count_weight=1&custom_title=Lenguajes%20por%20repositorio)](https://github.com/DarioAlRio?tab=repositories)
 
 </div>
 

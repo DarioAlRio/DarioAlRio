@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="58" viewBox="0 0 208 58" role="img" aria-label="LINKEDIN: CONECTA">
+  <defs>
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="c"><rect x="12" y="12" width="184" height="34" rx="8"/></clipPath>
+  </defs>
+  <rect x="12" y="12" width="184" height="34" rx="8" fill="none" stroke="#FF6A00" stroke-width="2.5" filter="url(#glow)">
+    <animate attributeName="stroke-opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/>
+  </rect>
+  <g clip-path="url(#c)">
+    <rect x="12" y="12" width="96" height="34" fill="#111827"/>
+    <rect x="108" y="12" width="88" height="34" fill="#0A66C2"/>
+  </g>
+  <rect x="12" y="12" width="184" height="34" rx="8" fill="none" stroke="#FF8A3D" stroke-width="1.5"/>
+  <g font-family="Segoe UI,Verdana,DejaVu Sans,sans-serif" font-size="13" font-weight="700" letter-spacing="1" fill="#fff" text-anchor="middle" dominant-baseline="central">
+    <text x="60.0" y="29.0">LINKEDIN</text>
+    <text x="152.0" y="29.0">CONECTA</text>
+  </g>
+</svg>

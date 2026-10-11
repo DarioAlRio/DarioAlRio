@@ -32,23 +32,22 @@
 - SEO local 2026 (JSON-LD, `llms.txt`)
 - Despliegue en Vercel
 
-🛠️ Mis webs más importantes: **BlackLili Tattoos**, **Apirober**, **Biblioteca El Nido** y **El Escaparate**.
+🛠️ Creador de proyectos como:
+
+- 🎨 BlackLili Tattoos
+- 🔨 Aparejo · Reformas Integrales
+- 🛠️ Ferretería Jiménez / Ferretería Vallecana
+- 🛒 Red de 8 webs de afiliados de Amazon (Node.js)
+- 🧰 Prospector de negocios locales (Python)
+- 🤖 Plantillas de prompt spec para generar webs con IA
 
 ---
 
-# ⭐ Webs principales
-
-| Web | Descripción | Enlaces |
-| --- | --- | --- |
-| 🎨 **BlackLili Tattoos** | Web de estudio de tatuaje fine-line en Puente de Vallecas: optimizada con Lighthouse, imágenes fuera de base64, datos estructurados y clúster de SEO local | [Web](https://blacklilitattoos-dario21.vercel.app) · [Código](https://github.com/DarioAlRio/Blacklilitattoos) |
-| 🍯 **Apirober** | Web de venta de miel cruda de flores de Fuentemolinos (Burgos), en HTML, CSS y JS estático | [Web](https://apirober.vercel.app) · [Código](https://github.com/DarioAlRio/ApiRober) |
-| 📚 **Biblioteca El Nido** | Web de la biblioteca vecinal de Fuentemolinos: catálogo de más de 1.000 libros con buscador y filtros, estantería interactiva y actualización del catálogo desde Excel con Python | [Web](https://el-nido-biblioteca.vercel.app) · [Código](https://github.com/DarioAlRio/ElNidoBiblioteca) |
-| 🌐 **El Escaparate** | Web de mi estudio de desarrollo web para negocios de barrio | [Web](https://elescaparateweb.com) · [Código](https://github.com/DarioAlRio/ElEscaparate) |
-
-# 🚀 Otros proyectos
+# 🚀 Proyectos Destacados
 
 | Proyecto | Descripción |
 | --- | --- |
+| 🎨 **BlackLili Tattoos** | Web de estudio fine-line en Puente de Vallecas: Lighthouse, imágenes fuera de base64, datos estructurados y clúster de SEO local |
 | 🔨 **Aparejo · Reformas Integrales** | Demo multipágina generada desde módulos Python con validador propio |
 | 🛠️ **Ferretería Jiménez / Vallecana** | Webs para ferreterías de barrio |
 | 🛒 **Red de webs de afiliados Amazon** | 8 webs temáticas (CocinaIdeal, BebeListo, CocheListo, MascotaIdeal…) con ~2.700 páginas estáticas generadas con Node.js: scraping y verificación de productos, rankings y comparativas automáticas, auditoría SEO propia (canibalización, enlaces, profundidad de clic), WebP, IndexNow y publicación programada en Pinterest |

@@ -56,6 +56,15 @@
 
 ---
 
+## 📋 PMO / GESTIÓN DE PROYECTOS
+
+- Seguimiento de proyectos de cliente empresarial (VASS)
+- Métricas y gestión de servicios TI
+- Coordinación de equipos y entregables
+- Reporting y control de planificación
+
+---
+
 ## 🌐 EL ESCAPARATE
 
 Estudio web freelance para negocios de barrio.
@@ -65,15 +74,6 @@ Estudio web freelance para negocios de barrio.
 - Accesibilidad y cumplimiento legal de serie
 - SEO local con datos estructurados
 - Sin frameworks: HTML, CSS y JS
-
----
-
-## 📋 PMO / GESTIÓN DE PROYECTOS
-
-- Seguimiento de proyectos de cliente empresarial (VASS)
-- Métricas y gestión de servicios TI
-- Coordinación de equipos y entregables
-- Reporting y control de planificación
 
 ---
 

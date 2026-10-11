@@ -12,6 +12,7 @@
 [![FOLLOWERS](https://img.shields.io/github/followers/DarioAlRio?style=for-the-badge&label=FOLLOWERS&color=FF4D00&labelColor=111827)](https://github.com/DarioAlRio?tab=followers)
 [![EL ESCAPARATE](https://img.shields.io/badge/EL_ESCAPARATE-WEB_DEV-FF6A00?style=for-the-badge&labelColor=111827)](https://elescaparateweb.com)
 [![STARS](https://img.shields.io/github/stars/DarioAlRio?style=for-the-badge&label=STARS&color=FF2200&labelColor=111827)](https://github.com/DarioAlRio?tab=stars)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-CONECTA-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827)](https://www.linkedin.com/in/dar%C3%ADo-dom%C3%ADnguez-garc%C3%ADa-13673a252/)
 
 </div>
 

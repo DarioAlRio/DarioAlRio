@@ -116,11 +116,11 @@ Estudio web freelance para negocios de barrio.
 
 <div align="center">
 
-[![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarioAlRio&theme=gruvbox&v=1791682249)](https://github.com/DarioAlRio)
+[![Profile](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DarioAlRio&theme=gruvbox&v=1791682793)](https://github.com/DarioAlRio)
 
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarioAlRio&theme=gruvbox&v=1791682249)](https://github.com/DarioAlRio) [![Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DarioAlRio&theme=gruvbox&utcOffset=2&v=1791682249)](https://github.com/DarioAlRio)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DarioAlRio&theme=gruvbox&v=1791682793)](https://github.com/DarioAlRio) [![Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DarioAlRio&theme=gruvbox&utcOffset=2&v=1791682793)](https://github.com/DarioAlRio)
 
-[![Lenguajes por código](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioAlRio&layout=donut&langs_count=8&theme=gruvbox&hide_border=true&custom_title=Lenguajes%20por%20c%C3%B3digo&v=1791682249)](https://github.com/DarioAlRio?tab=repositories) [![Lenguajes por repositorio](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioAlRio&layout=donut&langs_count=8&theme=gruvbox&hide_border=true&size_weight=0&count_weight=1&custom_title=Lenguajes%20por%20repositorio&v=1791682249)](https://github.com/DarioAlRio?tab=repositories)
+[![Lenguajes por código](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioAlRio&layout=donut&langs_count=8&theme=gruvbox&hide_border=true&custom_title=Lenguajes%20por%20c%C3%B3digo&v=1791682793)](https://github.com/DarioAlRio?tab=repositories) [![Lenguajes por repositorio](https://github-readme-stats.vercel.app/api/top-langs/?username=DarioAlRio&layout=donut&langs_count=8&theme=gruvbox&hide_border=true&size_weight=0&count_weight=1&custom_title=Lenguajes%20por%20repositorio&v=1791682793)](https://github.com/DarioAlRio?tab=repositories)
 
 </div>
 
@@ -130,9 +130,9 @@ Estudio web freelance para negocios de barrio.
 
 <div align="center">
 
-[![Racha](https://streak-stats.demolab.com?user=DarioAlRio&theme=gruvbox&hide_border=true&locale=es&v=1791682249)](https://github.com/DarioAlRio)
+[![Racha](https://streak-stats.demolab.com?user=DarioAlRio&theme=gruvbox&hide_border=true&locale=es&v=1791682793)](https://github.com/DarioAlRio)
 
-[![Contribuciones](https://ghchart.rshah.org/FF4D00/DarioAlRio?v=1791682249)](https://github.com/DarioAlRio)
+[![Contribuciones](https://ghchart.rshah.org/FF4D00/DarioAlRio?v=1791682793)](https://github.com/DarioAlRio)
 
 </div>
 

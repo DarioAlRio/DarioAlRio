@@ -108,7 +108,13 @@ Estudio web freelance para negocios de barrio.
 
 # 📈 Actividad
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DarioAlRio&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+
+[![Racha](https://streak-stats.demolab.com?user=DarioAlRio&theme=gruvbox&hide_border=true&locale=es)](https://github.com/DarioAlRio)
+
+[![Contribuciones](https://ghchart.rshah.org/FF4D00/DarioAlRio)](https://github.com/DarioAlRio)
+
+</div>
 
 ---
 

@@ -23,6 +23,8 @@
 
 📋 Prácticas de 5 meses como **Project Manager en VASS**, con trabajo de PMO en proyectos de cliente empresarial. Busco prácticas o contrato como PM.
 
+🤖 Uso avanzado de IA en mi día a día: agentes de IA (Claude Code) para desarrollar, auditar y automatizar, y plantillas de prompts propias para generar webs.
+
 🌐 Desarrollo webs con **HTML, CSS y JS puro** desde **El Escaparate**, centradas en:
 
 - Core Web Vitals
@@ -101,6 +103,7 @@ Estudio web freelance para negocios de barrio.
 - Google Places API
 - JSON-LD / `llms.txt`
 - Lighthouse / PageSpeed
+- IA aplicada: Claude Code, agentes y prompt engineering
 
 ---
 

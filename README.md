@@ -39,6 +39,7 @@
 - 🎨 BlackLili Tattoos
 - 🍯 Apirober
 - 📚 Biblioteca El Nido
+- 🌐 El Escaparate
 - 🛒 Red de 8 webs de afiliados de Amazon (Node.js)
 - 🧰 Prospector de negocios locales (Python)
 - 🤖 Plantillas de prompt spec para generar webs con IA

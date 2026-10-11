@@ -149,7 +149,3 @@ Estudio web freelance para negocios de barrio.
 ## 👁️ Visitas
 
 [![Visitors](https://komarev.com/ghpvc/?username=DarioAlRio&style=for-the-badge&color=FF4D00)](https://github.com/DarioAlRio)
-
----
-
-*"Convirtiendo negocios de barrio en webs rápidas, accesibles y encontrables, una entrega a la vez."*

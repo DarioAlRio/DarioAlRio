@@ -136,6 +136,7 @@ Estudio web freelance para negocios de barrio.
 
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DarioAlRio)
 [![Web](https://img.shields.io/badge/El_Escaparate-FF4D00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://elescaparateweb.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dar%C3%ADo-dom%C3%ADnguez-garc%C3%ADa-13673a252/)
 
 ---
 

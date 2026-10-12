@@ -105,7 +105,7 @@ Estudio web freelance para negocios de barrio.
 - Python (generadores y herramientas)
 - IA aplicada: Claude Code, agentes y prompt engineering
 - Java
-- SQL
+- SQL (MySQL)
 - Vercel
 - Lighthouse / PageSpeed
 - JSON-LD / `llms.txt`

@@ -98,17 +98,18 @@ Estudio web freelance para negocios de barrio.
 
 ## Stack
 
+- JavaScript vanilla
 - HTML5 semántico
 - CSS3 moderno
-- JavaScript vanilla
 - Node.js (generadores estáticos y auditorías SEO)
 - Python (generadores y herramientas)
-- Java
-- Vercel
-- Google Places API
-- JSON-LD / `llms.txt`
-- Lighthouse / PageSpeed
 - IA aplicada: Claude Code, agentes y prompt engineering
+- Java
+- SQL
+- Vercel
+- Lighthouse / PageSpeed
+- JSON-LD / `llms.txt`
+- Google Places API
 
 ---
 

@@ -94,7 +94,7 @@ Estudio web freelance para negocios de barrio.
 
 # 🛠️ Tecnologías y Herramientas
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,git,github,vercel,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,mysql,git,github,vercel,vscode)](https://skillicons.dev)
 
 ## Stack
 

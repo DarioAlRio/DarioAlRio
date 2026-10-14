@@ -1,28 +1,8 @@
 """Genera los badges con marco naranja y brillo LED en assets/.
-Uso: python scripts/badges.py  (lee GITHUB_TOKEN si existe)."""
-import json, os, urllib.request
+Uso: python scripts/badges.py"""
+import os
 
-USER = "DarioAlRio"
 OUT = os.path.join(os.path.dirname(__file__), "..", "assets")
-
-
-def api(path):
-    req = urllib.request.Request(f"https://api.github.com{path}")
-    tok = os.environ.get("GITHUB_TOKEN")
-    if tok:
-        req.add_header("Authorization", f"Bearer {tok}")
-    with urllib.request.urlopen(req) as r:
-        return json.load(r)
-
-
-def stars():
-    total, page = 0, 1
-    while True:
-        repos = api(f"/users/{USER}/repos?per_page=100&page={page}")
-        total += sum(r["stargazers_count"] for r in repos if not r["fork"])
-        if len(repos) < 100:
-            return total
-        page += 1
 
 
 def text_w(s, size):
@@ -63,7 +43,5 @@ def badge(name, label, value, accent):
 
 
 os.makedirs(OUT, exist_ok=True)
-badge("followers", "FOLLOWERS", str(api(f"/users/{USER}")["followers"]), "#FF4D00")
 badge("escaparate", "EL ESCAPARATE", "WEB DEV", "#FF6A00")
-badge("stars", "STARS", str(stars()), "#FF2200")
 badge("linkedin", "LINKEDIN", "CONECTA", "#0A66C2")

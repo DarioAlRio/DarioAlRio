@@ -10,11 +10,7 @@
 <div align="center">
 
 <p align="center">
-<a href="https://github.com/DarioAlRio?tab=followers"><img src="assets/followers.svg" alt="Followers"></a>
-&nbsp;&nbsp;
 <a href="https://elescaparateweb.com"><img src="assets/escaparate.svg" alt="El Escaparate"></a>
-&nbsp;&nbsp;
-<a href="https://github.com/DarioAlRio?tab=stars"><img src="assets/stars.svg" alt="Stars"></a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/dar%C3%ADo-dom%C3%ADnguez-garc%C3%ADa-13673a252/"><img src="assets/linkedin.svg" alt="LinkedIn"></a>
 </p>

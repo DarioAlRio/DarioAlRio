@@ -21,11 +21,13 @@
 
 # 📡 Sobre mí
 
-💻 Estudiante de último año de **Ingeniería de Sistemas** en la **UPM (ETSISI)**, con experiencia en **PMO y gestión de proyectos IT** y un negocio propio de **desarrollo web para comercio local**.
+💻 Estudiante de último año de **Ingeniería de Sistemas** en la **UPM (ETSISI)**, con interés en **IA aplicada**. Programo en **Python** y **SQL**, construyo herramientas que consumen **APIs REST** y automatizan procesos, y tengo un negocio propio de **desarrollo web para comercio local**.
 
-📋 Prácticas de 5 meses como **Project Manager en VASS**, con trabajo de PMO en proyectos de cliente empresarial. Busco prácticas o contrato como PM.
+🎓 Mi TFG, **SpecFlow AI**, es una plataforma de **Spec-Driven Development** que convierte requisitos de negocio en software verificable con un equipo de agentes de IA que guío, reviso y corrijo.
 
-🤖 Uso avanzado de IA en mi día a día: agentes de IA (Claude Code) para desarrollar, auditar y automatizar, y plantillas de prompts propias para generar webs.
+🤖 Uso avanzado de IA en mi día a día: agentes de IA (Claude Code) para desarrollar, auditar y automatizar, y plantillas de prompts propias para generar software y webs.
+
+📋 Prácticas de 5 meses como **Project Manager en VASS**, dando soporte a la planificación, seguimiento y reporting de proyectos de cliente empresarial. Busco prácticas donde seguir creciendo en **IA y desarrollo**.
 
 🌐 Desarrollo webs con **HTML, CSS y JS puro** desde **El Escaparate**, centradas en:
 
@@ -38,15 +40,25 @@
 
 🛠️ Creador de proyectos como:
 
+- 🎓 SpecFlow AI (TFG, en desarrollo)
+- 🧰 Prospector de negocios locales (Python)
+- 🤖 Plantillas de prompt spec para generar software y webs con IA
+- 🛒 Red de 8 webs de afiliados de Amazon (Node.js)
 - 🎨 BlackLili Tattoos
 - 🍯 Apirober
 - 📚 Biblioteca El Nido
 - 🌐 El Escaparate
-- 🛒 Red de 8 webs de afiliados de Amazon (Node.js)
-- 🧰 Prospector de negocios locales (Python)
-- 🤖 Plantillas de prompt spec para generar webs con IA
 
 ---
+
+# 🚀 Proyectos de IA, Python y automatización
+
+| Proyecto | Descripción |
+| --- | --- |
+| 🎓 **SpecFlow AI (TFG)** | Plataforma de Spec-Driven Development que convierte requisitos de negocio en software verificable con un equipo de agentes de IA (programadores, arquitectos y testers). *En desarrollo* |
+| 🧰 **[Prospector de negocios](https://github.com/DarioAlRio/prospector)** | Python + Google Places API: localiza negocios sin web y genera enlaces de WhatsApp para contacto manual (LSSICE) |
+| 🤖 **Prompt Spec Template** | Plantilla Markdown reutilizable para generar sitios con IA |
+| 🛒 **Red de webs de afiliados Amazon** | 8 webs temáticas (CocinaIdeal, BebeListo, CocheListo, MascotaIdeal…) con ~2.700 páginas estáticas generadas con Node.js: scraping y verificación de productos, rankings y comparativas automáticas, auditoría SEO propia (canibalización, enlaces, profundidad de clic), WebP, IndexNow y publicación programada en Pinterest |
 
 # ⭐ Webs principales
 
@@ -56,23 +68,6 @@
 | 🍯 **Apirober** | Web de venta de miel cruda de flores de Fuentemolinos (Burgos), en HTML, CSS y JS estático | [Web](https://apirober.es) |
 | 📚 **Biblioteca El Nido** | Web de la biblioteca vecinal de Fuentemolinos: catálogo de más de 1.000 libros con buscador y filtros, estantería interactiva y actualización del catálogo desde Excel con Python | [Web](https://elnidobiblioteca.com) |
 | 🌐 **El Escaparate** | Web de mi estudio de desarrollo web para negocios de barrio | [Web](https://elescaparateweb.com) |
-
-# 🚀 Otros proyectos
-
-| Proyecto | Descripción |
-| --- | --- |
-| 🛒 **Red de webs de afiliados Amazon** | 8 webs temáticas (CocinaIdeal, BebeListo, CocheListo, MascotaIdeal…) con ~2.700 páginas estáticas generadas con Node.js: scraping y verificación de productos, rankings y comparativas automáticas, auditoría SEO propia (canibalización, enlaces, profundidad de clic), WebP, IndexNow y publicación programada en Pinterest |
-| 🧰 **[Prospector de negocios](https://github.com/DarioAlRio/prospector)** | Python + Google Places API: localiza negocios sin web y genera enlaces de WhatsApp para contacto manual (LSSICE) |
-| 🤖 **Prompt Spec Template** | Plantilla Markdown reutilizable para generar sitios con IA |
-
----
-
-## 📋 PMO / GESTIÓN DE PROYECTOS
-
-- Seguimiento de proyectos de cliente empresarial (VASS)
-- Métricas y gestión de servicios TI
-- Coordinación de equipos y entregables
-- Reporting y control de planificación
 
 ---
 
@@ -88,24 +83,34 @@ Estudio web freelance para negocios de barrio.
 
 ---
 
+## 📋 EXPERIENCIA EN GESTIÓN DE PROYECTOS
+
+- Seguimiento de proyectos de cliente empresarial (VASS)
+- Métricas y gestión de servicios TI
+- Coordinación de equipos y entregables
+- Reporting y control de planificación
+
+---
+
 # 🛠️ Tecnologías y Herramientas
 
-[![Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,python,java,mysql,git,github,vercel,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,mysql,java,nodejs,js,html,css,git,github,docker,vercel,vscode)](https://skillicons.dev)
 
 ## Stack
 
+- Python (herramientas, generadores y automatización)
+- SQL (MySQL)
+- IA aplicada: Claude Code, agentes y prompt engineering
+- APIs REST (Google Places API)
+- Java
+- Node.js (generadores estáticos y auditorías SEO)
+- Git / GitHub / Docker
 - JavaScript vanilla
 - HTML5 semántico
 - CSS3 moderno
-- Node.js (generadores estáticos y auditorías SEO)
-- Python (generadores y herramientas)
-- IA aplicada: Claude Code, agentes y prompt engineering
-- Java
-- SQL (MySQL)
 - Vercel
 - Lighthouse / PageSpeed
 - JSON-LD / `llms.txt`
-- Google Places API
 
 ---
 

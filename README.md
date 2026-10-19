@@ -57,7 +57,7 @@
 | --- | --- |
 | 🎓 **SpecFlow AI (TFG)** | Plataforma de Spec-Driven Development que convierte requisitos de negocio en software verificable con un equipo de agentes de IA (programadores, arquitectos y testers). *En desarrollo* |
 | 🧰 **[Prospector de negocios](https://github.com/DarioAlRio/prospector)** | Python + Google Places API: localiza negocios sin web y genera enlaces de WhatsApp para contacto manual (LSSICE) |
-| 🤖 **Prompt Spec Template** | Plantilla Markdown reutilizable para generar sitios con IA |
+| 🤖 **Prompt Spec Template** | Plantilla Markdown reutilizable para generar sitios con IA (Claude Code) |
 | 🛒 **Red de webs de afiliados Amazon** | 8 webs temáticas (CocinaIdeal, BebeListo, CocheListo, MascotaIdeal…) con ~2.700 páginas estáticas generadas con Node.js: scraping y verificación de productos, rankings y comparativas automáticas, auditoría SEO propia (canibalización, enlaces, profundidad de clic), WebP, IndexNow y publicación programada en Pinterest |
 
 # ⭐ Webs principales
@@ -95,6 +95,8 @@ Estudio web freelance para negocios de barrio.
 # 🛠️ Tecnologías y Herramientas
 
 [![Skills](https://skillicons.dev/icons?i=python,mysql,java,nodejs,js,html,css,git,github,docker,vercel,vscode)](https://skillicons.dev)
+
+[![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/claude-code)
 
 ## Stack
 

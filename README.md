@@ -1,7 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=2000&color=FF4D00&center=true&vCenter=true&width=900&lines=Ingeniero+de+Sistemas+%7C+Project+Manager+%2F+PMO;Desarrollador+de+Software;Desarrollador+Web+Freelance+%E2%80%94+El+Escaparate;Webs+r%C3%A1pidas%2C+accesibles+y+con+SEO+local)](https://elescaparateweb.com)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=00F7FF&center=true&vCenter=true&width=900&lines=PMO+%2F+Gesti%C3%B3n+de+proyectos+IT+%2F+Madrid;Node.js+%2F+Python+%2F+Java+%2F+SQL+%2F+IA+aplicada;HTML+%2F+CSS+%2F+JS+sin+frameworks;Core+Web+Vitals+%2F+WCAG+2.2+AA+%2F+RGPD)](https://elescaparateweb.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=2000&color=FF4D00&center=true&vCenter=true&width=900&lines=Ingeniero+de+Sistemas+de+Informaci%C3%B3n;IA+aplicada;TFG%3A+SpecFlow+AI;Python+y+SQL;Desarrollador+web+freelance)](https://elescaparateweb.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=00F7FF&center=true&vCenter=true&width=900&lines=UPM+ETSISI+%C2%B7+Madrid+%C2%B7+Ingl%C3%A9s+C1;Agentes+de+IA+%C2%B7+Claude+Code+%C2%B7+Prompt+specs;Spec-Driven+Development+con+agentes+de+IA;MySQL+%C2%B7+MongoDB+%C2%B7+APIs+REST+%C2%B7+Docker;El+Escaparate+%C2%B7+WCAG+2.2+AA+%C2%B7+SEO+local)](https://elescaparateweb.com)
 
 </div>
 

@@ -58,9 +58,9 @@
 | 🎓 **SpecFlow AI (TFG)** | Plataforma de Spec-Driven Development que convierte requisitos de negocio en software verificable con un equipo de agentes de IA (programadores, arquitectos y testers). *En desarrollo* |
 | 🧰 **[Prospector de negocios](https://github.com/DarioAlRio/prospector)** | Python + Google Places API: localiza negocios sin web y genera enlaces de WhatsApp para contacto manual (LSSICE) |
 | 🤖 **Prompt Spec Template** | Plantilla Markdown reutilizable para generar sitios con IA (Claude Code) |
-| 🛒 **Red de webs de afiliados Amazon** | 8 webs temáticas (CocinaIdeal, BebeListo, CocheListo, MascotaIdeal…) con ~2.700 páginas estáticas generadas con Node.js: scraping y verificación de productos, rankings y comparativas automáticas, auditoría SEO propia (canibalización, enlaces, profundidad de clic), WebP, IndexNow y publicación programada en Pinterest |
 | 🤖 **[DeskPet](https://github.com/DarioAlRio/DeskPet-Robot-de-Escritorio)** | Robot de escritorio con ESP32-C3 y pantalla redonda que reacciona con emociones al tacto (TTP223), los golpes y el movimiento (MPU6050). Firmware en C++ con PlatformIO y simulación en Wokwi. *En desarrollo* |
 | 📡 **[RadarWifi](https://github.com/DarioAlRio/RadarWifi)** | Detección de presencia y movimiento de personas solo con la señal WiFi (CSI) entre dos ESP32, sin cámaras: análisis en Python y visor web tipo radar en tiempo real. *En desarrollo* |
+| 🛒 **Red de webs de afiliados Amazon** | 8 webs temáticas (CocinaIdeal, BebeListo, CocheListo, MascotaIdeal…) con ~2.700 páginas estáticas generadas con Node.js: scraping y verificación de productos, rankings y comparativas automáticas, auditoría SEO propia (canibalización, enlaces, profundidad de clic), WebP, IndexNow y publicación programada en Pinterest |
 
 # ⭐ Webs principales
 

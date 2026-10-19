@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=2000&color=FF4D00&center=true&vCenter=true&width=900&lines=Ingeniero+de+Sistemas+de+Informaci%C3%B3n;IA+aplicada;TFG%3A+SpecFlow+AI;Python+y+SQL;Desarrollador+web+freelance)](https://elescaparateweb.com)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=2000&color=FF4D00&center=true&vCenter=true&width=900&lines=Ingeniero+de+Sistemas+de+Informaci%C3%B3n;IA+aplicada;TFG%3A+SpecFlow+AI;Python%2C+SQL+y+Java;Desarrollador+web+freelance)](https://elescaparateweb.com)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=2000&color=00F7FF&center=true&vCenter=true&width=900&lines=UPM+ETSISI+%C2%B7+Madrid+%C2%B7+Ingl%C3%A9s+C1;Agentes+de+IA+%C2%B7+Claude+Code+%C2%B7+Prompt+specs;Spec-Driven+Development+con+agentes+de+IA;MySQL+%C2%B7+MongoDB+%C2%B7+APIs+REST+%C2%B7+Docker;El+Escaparate+%C2%B7+WCAG+2.2+AA+%C2%B7+SEO+local)](https://elescaparateweb.com)
 
 </div>
@@ -94,14 +94,14 @@ Estudio web freelance para negocios de barrio.
 
 # 🛠️ Tecnologías y Herramientas
 
-[![Skills](https://skillicons.dev/icons?i=python,mysql,java,nodejs,js,html,css,git,github,docker,vercel,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=python,mysql,java,nodejs,js,html,css,git,github,docker,mongodb,vercel,vscode)](https://skillicons.dev)
 
 [![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)](https://claude.com/claude-code)
 
 ## Stack
 
 - Python (herramientas, generadores y automatización)
-- SQL (MySQL)
+- SQL (MySQL, MongoDB)
 - IA aplicada: Claude Code, agentes y prompt engineering
 - APIs REST (Google Places API)
 - Java

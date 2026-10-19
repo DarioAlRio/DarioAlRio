@@ -29,15 +29,6 @@
 
 📋 Prácticas de 5 meses como **Project Manager en VASS**, dando soporte a la planificación, seguimiento y reporting de proyectos de cliente empresarial. Busco prácticas donde seguir creciendo en **IA y desarrollo**.
 
-🌐 Desarrollo webs con **HTML, CSS y JS puro** desde **El Escaparate**, centradas en:
-
-- Core Web Vitals
-- Accesibilidad WCAG 2.2 AA
-- RGPD (art. 13) y cookies AEPD
-- CSP estricta
-- SEO local 2026 (JSON-LD, `llms.txt`)
-- Despliegue en Vercel
-
 🛠️ Creador de proyectos como:
 
 - 🎓 SpecFlow AI (TFG, en desarrollo)
@@ -48,6 +39,15 @@
 - 🍯 Apirober
 - 📚 Biblioteca El Nido
 - 🌐 El Escaparate
+
+🌐 Desarrollo webs con **HTML, CSS y JS puro** desde **El Escaparate**, centradas en:
+
+- Core Web Vitals
+- Accesibilidad WCAG 2.2 AA
+- RGPD (art. 13) y cookies AEPD
+- CSP estricta
+- SEO local 2026 (JSON-LD, `llms.txt`)
+- Despliegue en Vercel
 
 ---
 
